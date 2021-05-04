@@ -1,2 +1,1 @@
-# gpg-public-key
-gpg public key fingerprint
+PGP/GPG public key fingerprint: 2FCC 7C96 D5E7 1E45 BE51 CA3A E003 C57C 5EF4 964D
